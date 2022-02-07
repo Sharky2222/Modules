@@ -18,10 +18,17 @@ Output voltage is listed below, where IADJ is the current coming out of the adju
 VO = VREF (1 + R2 / R1) + (IADJ × R2)
 
 Bill of Materials:
+
 -LM317T
+
 -240 ohm resistor
+
 -.1uF capacitor
+
 -10uF capacitor
+
 -1uF capacitor
+
 -1N4002 diode
+
 -5k resistor
