@@ -14,6 +14,7 @@ into the current project. To generate the export file go to the file and export 
 This circuit is useful because it provides noise rejection and stabilizes the voltage at the adjustment pin. The resistors in the system determine the output voltage and the capacitors smooth the voltage wave.  
 
 Output voltage is listed below, where IADJ is the current coming out of the adjust pin and is usually negligible in most applications.
+
 VO = VREF (1 + R2 / R1) + (IADJ × R2)
 
 Bill of Materials:
